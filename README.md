@@ -1,12 +1,16 @@
 ### Hi there, I'm Yuchi Ishikawa 🎉
 
+<a href="http://yiskw713.github.io">
 <img align="left" src="https://img.shields.io/website?down_color=red&down_message=dwon&label=MY%20WEBSITE&style=for-the-badge&up_message=up&url=http%3A%2F%2Fyiskw713.github.io" />
+</a>
+<a href="https://twitter.com/yciskw_">
 <img align="left" src="https://img.shields.io/twitter/follow/yciskw_?logo=Twitter&style=for-the-badge" />
+</a>
 <br />
 <br />
 
 - 👨‍💻 I'm in my seconde year of graduate school, majoring in Computer Vision and Machine Learning. 
-- 🧪 My research topics are about action recognition and affordance detection.
+- 🧪 My research topic is about human action recognition.
 - 😎 I'm curious about everything and I'm currently learning TypeScript and Django.
 - 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
 
