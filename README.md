@@ -1,3 +1,14 @@
+### Hi there, I'm Yuchi Ishikawa 🎉
+
+<img align="left" src="https://img.shields.io/website?down_color=red&down_message=dwon&label=MY%20WEBSITE&style=for-the-badge&up_message=up&url=http%3A%2F%2Fyiskw713.github.io" />
+<img align="left" src="https://img.shields.io/twitter/follow/yciskw_?logo=Twitter&style=for-the-badge" />
+<br />
+<br />
+
+- 💻 I'm in my seconde year of graduate school, majoring in Computer Vision and Machine Learning. 
+- 😎 I'm curious about everything and I'm currently learning Computer Science and Web Development.
+- 🎒 I love traveling all over the world. I've been to about 25 countries and landed on the seven continents so far.
+
 ### Languages and Skills
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -21,10 +32,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
