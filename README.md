@@ -6,6 +6,7 @@
 <br />
 
 - 👨‍💻 I'm in my seconde year of graduate school, majoring in Computer Vision and Machine Learning. 
+- 🧪 My research topics are about action recognition and affordance detection.
 - 😎 I'm curious about everything and I'm currently learning TypeScript and Django.
 - 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
 
@@ -34,9 +35,8 @@
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
-<br />
 
-### Where to find me:
+### Where to Find Me 👀
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -46,11 +46,16 @@
 <br />
 
 
-### GitHub Stats
+### GitHub Stats ✨
 
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=highcontrast" />
 <br/ >
+
+### My Statistics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 [website]: https://yiskw713.github.io
