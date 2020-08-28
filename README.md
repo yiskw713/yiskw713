@@ -55,9 +55,8 @@
 <img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=highcontrast" />
 <br/ >
-<br/ >
 
-### WakaTime Stats
+### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.0%20million%20lines%20of%20code-blue)
