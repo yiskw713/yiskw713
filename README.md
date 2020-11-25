@@ -58,9 +58,9 @@
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -101,14 +101,14 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       █████████████████████░░░░   86.54% 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
+Python                   5 hrs 36 mins       ████████████████████░░░░░   80.33% 
+Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
 🔥 Editors: 
-VS Code                  11 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  6 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/yiskw713/yiskw713/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/yiskw713/yiskw713/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
