@@ -58,13 +58,13 @@
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,056 Contributions in the Year 2020
+> 🏆 1,059 Contributions in the Year 2020
  > 
 > 📦 11.8 MB Used in Github's Storage 
  > 
@@ -73,7 +73,7 @@
 > 📜 44 Public Repositories 
  > 
 > 🔑 53 Private Repositories  
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -101,14 +101,14 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 18 mins       ███████████████░░░░░░░░░░   60.96% 
-YAML                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+Python                   5 hrs 23 mins       ██████████████░░░░░░░░░░░   56.46% 
+YAML                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
 
 🔥 Editors: 
-VS Code                  8 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
