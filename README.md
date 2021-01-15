@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 18 Contributions in the Year 2021
+> 🏆 24 Contributions in the Year 2021
  > 
 > 📦 11.8 MB Used in Github's Storage 
  > 
@@ -101,10 +101,13 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              █████████████████░░░░░░░░   70.31% 
+Bash                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.16% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 ```
 
