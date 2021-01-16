@@ -58,13 +58,13 @@
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 24 Contributions in the Year 2021
+> 🏆 25 Contributions in the Year 2021
  > 
 > 📦 11.8 MB Used in Github's Storage 
  > 
@@ -101,13 +101,14 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 mins              █████████████████░░░░░░░░   70.31% 
-Bash                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.16% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+CSV                      25 mins             █████████████░░░░░░░░░░░░   52.15% 
+Bash                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.17% 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+VS Code                  49 mins             █████████████████████████   100.0%
 
 ```
 
