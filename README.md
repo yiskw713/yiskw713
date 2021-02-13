@@ -57,11 +57,11 @@
 
 <br />
 
-### GitHub Trophy
+### GitHub Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Blog Posts
+### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
 - [pythonで毎週レビュワーのローテーションを通知するslack botを作成した](https://yiskw713.hatenablog.com/entry/2021/02/13/130214)
