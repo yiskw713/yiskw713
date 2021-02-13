@@ -64,6 +64,9 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [pythonで毎週レビュワーのローテーションを通知するslack botを作成した](https://yiskw713.hatenablog.com/entry/2021/02/13/130214)
+- [pre-commitでコミット時にコードの整形やチェックを行う](https://yiskw713.hatenablog.com/entry/2021/02/12/180350)
+- [GitHubでのメンションをslackに通知させる](https://yiskw713.hatenablog.com/entry/2021/02/12/170209)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
