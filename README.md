@@ -61,6 +61,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
