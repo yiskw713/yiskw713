@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actionsでワークフローを定期的に実行する](https://yiskw713.hatenablog.com/entry/2021/02/16/143013)
 - [slackでbotのメッセージを削除する](https://yiskw713.hatenablog.com/entry/2021/02/15/230355)
 - [Herokuのタイムゾーンを設定する](https://yiskw713.hatenablog.com/entry/2021/02/15/222123)
 - [pythonで毎週レビュワーのローテーションを通知するslack botを作成した](https://yiskw713.hatenablog.com/entry/2021/02/13/130214)
 - [pre-commitでコミット時にコードの整形やチェックを行う](https://yiskw713.hatenablog.com/entry/2021/02/12/180350)
-- [GitHubでのメンションをslackに通知させる](https://yiskw713.hatenablog.com/entry/2021/02/12/170209)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
