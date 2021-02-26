@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Mimetics: Towards Understanding Human Actions Out of Contextを読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/02/25/213901)
 - [GitHub Actionsを用いて，slackに定期的にメッセージを送信する](https://yiskw713.hatenablog.com/entry/2021/02/24/191644)
 - [python + seleniumを用いて，google mapを自動でスクショする](https://yiskw713.hatenablog.com/entry/2021/02/20/153110)
 - [plotly expressで散布図に色を変えた近似直線を追加する](https://yiskw713.hatenablog.com/entry/2021/02/20/133233)
 - [GitHub Actionsでワークフローを定期的に実行する](https://yiskw713.hatenablog.com/entry/2021/02/16/143013)
-- [slackでbotのメッセージを削除する](https://yiskw713.hatenablog.com/entry/2021/02/15/230355)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
