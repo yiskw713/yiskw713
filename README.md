@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [スマブラの対戦データを解析して相性補完ができるサブキャラを探してみた](https://yiskw713.hatenablog.com/entry/2021/03/07/214750)
 - [pytorchで全結合層以外の重みを固定して学習し直す](https://yiskw713.hatenablog.com/entry/2021/03/02/111603)
 - [Mimetics: Towards Understanding Human Actions Out of Contextを読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/02/25/213901)
 - [GitHub Actionsを用いて，slackに定期的にメッセージを送信する](https://yiskw713.hatenablog.com/entry/2021/02/24/191644)
 - [python + seleniumを用いて，google mapを自動でスクショする](https://yiskw713.hatenablog.com/entry/2021/02/20/153110)
-- [plotly expressで散布図に色を変えた近似直線を追加する](https://yiskw713.hatenablog.com/entry/2021/02/20/133233)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
