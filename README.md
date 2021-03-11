@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [スマメイト13期の対戦データからレート帯ごとにキャラランクを決めてみた](https://yiskw713.hatenablog.com/entry/2021/03/10/194519)
 - [sqlite3のデータベースをpandasで読み出す方法](https://yiskw713.hatenablog.com/entry/2021/03/09/005718)
 - [pandasでUNIX時間をdatetime型に変換する](https://yiskw713.hatenablog.com/entry/2021/03/09/004415)
 - [スマブラの対戦データを解析して相性補完ができるサブキャラを探してみた](https://yiskw713.hatenablog.com/entry/2021/03/07/214750)
 - [pytorchで全結合層以外の重みを固定して学習し直す](https://yiskw713.hatenablog.com/entry/2021/03/02/111603)
-- [Mimetics: Towards Understanding Human Actions Out of Contextを読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/02/25/213901)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
