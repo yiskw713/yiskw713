@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [pythonのdefaultdictで定数をデフォルト値に指定する方法](https://yiskw713.hatenablog.com/entry/2021/03/16/005643)
 - [pandas.DataFrameのfor文を高速化する](https://yiskw713.hatenablog.com/entry/2021/03/12/004136)
 - [スマメイト13期の対戦データからレート帯ごとにキャラランクを決めてみた](https://yiskw713.hatenablog.com/entry/2021/03/10/194519)
 - [sqlite3のデータベースをpandasで読み出す方法](https://yiskw713.hatenablog.com/entry/2021/03/09/005718)
 - [pandasでUNIX時間をdatetime型に変換する](https://yiskw713.hatenablog.com/entry/2021/03/09/004415)
-- [スマブラの対戦データを解析して相性補完ができるサブキャラを探してみた](https://yiskw713.hatenablog.com/entry/2021/03/07/214750)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
