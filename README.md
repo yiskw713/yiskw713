@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 👨‍💻 I'm in my second year of graduate school, majoring in Computer Vision and Machine Learning. 
+- 👨‍💻 I'm a first-year PhD candidate, majoring in Computer Vision and Machine Learning. 
 - 🧪 My research topic is about human action recognition.
 - 😎 I'm curious about everything and I'm currently learning TypeScript and Django.
 - 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
