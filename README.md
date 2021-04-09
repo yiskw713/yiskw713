@@ -65,11 +65,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning](https://yiskw713.hatenablog.com/entry/2021/04/08/213641)
+- [Pulling Actions out of Context: Explicit Separation for Effective Combinationを読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/04/08/212843)
+- [pytestでloggingのログ出力をテストする](https://yiskw713.hatenablog.com/entry/2021/04/08/105245)
 - [スマメイトの対戦データを使用してキャラの安定度や上振れ度を分析してみた](https://yiskw713.hatenablog.com/entry/2021/03/16/175953)
 - [Djangoでフィールド間の大小比較や差の絶対値の計算を行う](https://yiskw713.hatenablog.com/entry/2021/03/16/111017)
-- [pythonのdefaultdictで定数をデフォルト値に指定する方法](https://yiskw713.hatenablog.com/entry/2021/03/16/005643)
-- [pandas.DataFrameのfor文を高速化する](https://yiskw713.hatenablog.com/entry/2021/03/12/004136)
-- [スマメイト13期の対戦データからレート帯ごとにキャラランクを決めてみた](https://yiskw713.hatenablog.com/entry/2021/03/10/194519)
 <!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Stats ⌚️
