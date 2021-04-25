@@ -1,7 +1,10 @@
 <img src="https://github.com/yiskw713/yiskw713/blob/master/header.png?raw=true">
 
 <a href="http://yiskw713.github.io">
-  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=dwon&label=MY%20WEBSITE&style=for-the-badge&up_message=up&url=http%3A%2F%2Fyiskw713.github.io" />
+  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20WEBSITE&style=for-the-badge&up_message=up&url=http%3A%2F%2Fyiskw713.github.io" />
+</a>
+<a href="https://yiskw713.hatenablog.com/">
+  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
 </a>
 <a href="https://twitter.com/yciskw_">
   <img align="left" src="https://img.shields.io/twitter/follow/yciskw_?logo=Twitter&style=for-the-badge" />
@@ -156,3 +159,4 @@ JavaScript               3 repos             ░░░░░░░░░░░�
 [instagram]: https://www.instagram.com/yciskw_/
 [linkedin]: https://www.linkedin.com/in/yiskw713/
 [facebook]: https://www.facebook.com/yuchi.ishikawa.7
+[blog]: https://yiskw713.hatenablog.com/
