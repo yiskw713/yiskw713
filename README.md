@@ -10,10 +10,10 @@
 <br />
 <br />
 
-- 👨‍💻 I'm a first-year PhD candidate, majoring in Computer Vision and Machine Learning. 
-- 🧪 My research topic is about human action recognition.
-- 😎 I'm curious about everything and I'm currently learning TypeScript and Django.
-- 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
+* 👨‍💻 I'm a first-year PhD candidate, majoring in Computer Vision and Machine Learning. 
+* 🧪 My research topic is about human action recognition.
+* 😎 I'm curious about everything and I'm currently learning Rust language.
+* 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
 
 ### Languages and Skills
 
@@ -44,18 +44,17 @@
 
 ### Where to Find Me 👀
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
+[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
 <br />
 
-### GitHub Streaks
+### GitHub Streaks 🏃‍♂️
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiskw713&theme=gotham&hide_border=true)](https://git.io/streak-stats)
-
-<br />
 
 ### GitHub Stats ✨
 
@@ -155,3 +154,4 @@ JavaScript               3 repos             ░░░░░░░░░░░�
 [twitter]: https://twitter.com/yciskw_
 [instagram]: https://www.instagram.com/yciskw_/
 [linkedin]: https://www.linkedin.com/in/yiskw713/
+[facebook]: https://www.facebook.com/yuchi.ishikawa.7
