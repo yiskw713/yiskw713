@@ -53,14 +53,14 @@
 
 ### GitHub Streaks
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiskw713&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiskw713&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 
 ### GitHub Stats ✨
 
-<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=monokai&include_all_commits=true" />
-<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=monokai" />
+<img align="left" src="https://github-readme-stats.yiskw713.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=gotham" />
 
 <br />
 
