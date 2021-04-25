@@ -51,6 +51,7 @@
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
 <br />
+<br />
 
 ### GitHub Streaks 🏃‍♂️
 
@@ -65,7 +66,7 @@
 
 ### GitHub Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Latest Blog Posts 📕
 
