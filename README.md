@@ -81,6 +81,10 @@
 - [スマメイトの対戦データを使用してキャラの安定度や上振れ度を分析してみた](https://yiskw713.hatenablog.com/entry/2021/03/16/175953)
 <!-- BLOG-POST-LIST:END -->
 
+### GitHub Activities
+
+<!--START_SECTION:activity-->
+
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
