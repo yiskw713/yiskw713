@@ -84,6 +84,12 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#161](https://github.com/yiskw713/paper_summary/issues/161) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+2. ❗️ Opened issue [#160](https://github.com/yiskw713/paper_summary/issues/160) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+3. ❗️ Opened issue [#159](https://github.com/yiskw713/paper_summary/issues/159) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+4. 🎉 Merged PR [#15](https://github.com/yiskw713/pytorch_template/pull/15) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+5. 💪 Opened PR [#15](https://github.com/yiskw713/pytorch_template/pull/15) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+<!--END_SECTION:activity-->
 
 ### WakaTime Stats ⌚️
 
