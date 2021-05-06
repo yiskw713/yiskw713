@@ -84,11 +84,11 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/yiskw713/pytorch_template/pull/17) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-2. 💪 Opened PR [#17](https://github.com/yiskw713/pytorch_template/pull/17) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-3. 🎉 Merged PR [#1](https://github.com/yiskw713/PyAlgo/pull/1) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
-4. 💪 Opened PR [#1](https://github.com/yiskw713/PyAlgo/pull/1) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
-5. ❗️ Opened issue [#16](https://github.com/yiskw713/pytorch_template/issues/16) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+1. 🎉 Merged PR [#18](https://github.com/yiskw713/pytorch_template/pull/18) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+2. 💪 Opened PR [#18](https://github.com/yiskw713/pytorch_template/pull/18) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+3. 🎉 Merged PR [#17](https://github.com/yiskw713/pytorch_template/pull/17) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+4. 💪 Opened PR [#17](https://github.com/yiskw713/pytorch_template/pull/17) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+5. 🎉 Merged PR [#1](https://github.com/yiskw713/PyAlgo/pull/1) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
 <!--END_SECTION:activity-->
 
 ### WakaTime Stats ⌚️
