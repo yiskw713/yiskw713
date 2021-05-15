@@ -84,11 +84,11 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/yiskw713/video_feature_extractor/issues/4) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
-2. 🗣 Commented on [#3](https://github.com/yiskw713/video_feature_extractor/issues/3) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
-3. 🎉 Merged PR [#2](https://github.com/yiskw713/PyAlgo/pull/2) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
-4. 💪 Opened PR [#2](https://github.com/yiskw713/PyAlgo/pull/2) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
-5. 🎉 Merged PR [#7](https://github.com/yiskw713/cv_utils/pull/7) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
+1. 🗣 Commented on [#3](https://github.com/yiskw713/video_feature_extractor/issues/3) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
+2. 🗣 Commented on [#4](https://github.com/yiskw713/video_feature_extractor/issues/4) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
+3. 🗣 Commented on [#3](https://github.com/yiskw713/video_feature_extractor/issues/3) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
+4. 🎉 Merged PR [#2](https://github.com/yiskw713/PyAlgo/pull/2) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
+5. 💪 Opened PR [#2](https://github.com/yiskw713/PyAlgo/pull/2) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
 <!--END_SECTION:activity-->
 
 ### WakaTime Stats ⌚️
