@@ -74,11 +74,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Rust】二つのイテレータを同時に回す](https://yiskw713.hatenablog.com/entry/2021/05/28/190000)
 - [個人的にオススメなVSCodeの拡張機能](https://yiskw713.hatenablog.com/entry/2021/05/25/060516)
 - [docker / docker-compose コマンドの補完を設定する](https://yiskw713.hatenablog.com/entry/2021/05/20/065401)
-- [RustのHashMapを用いて要素の個数を数える](https://yiskw713.hatenablog.com/entry/2021/05/16/102156)
+- [【Rust】HashMapを用いて要素の個数を数える](https://yiskw713.hatenablog.com/entry/2021/05/16/102156)
 - [Rustのベクター型をキーを指定してソートする](https://yiskw713.hatenablog.com/entry/2021/05/16/000030)
-- [Rustでベクター型から最大値/最小値を取り出す方法](https://yiskw713.hatenablog.com/entry/2021/05/15/100938)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
