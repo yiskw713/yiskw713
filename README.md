@@ -84,11 +84,11 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/yiskw713/pytorch_template/pull/20) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-2. 💪 Opened PR [#20](https://github.com/yiskw713/pytorch_template/pull/20) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-3. ❗️ Opened issue [#19](https://github.com/yiskw713/pytorch_template/issues/19) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-4. 🎉 Merged PR [#3](https://github.com/yiskw713/PyAlgo/pull/3) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
-5. 💪 Opened PR [#3](https://github.com/yiskw713/PyAlgo/pull/3) in [yiskw713/PyAlgo](https://github.com/yiskw713/PyAlgo)
+1. ❗️ Opened issue [#164](https://github.com/yiskw713/paper_summary/issues/164) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+2. ❗️ Opened issue [#163](https://github.com/yiskw713/paper_summary/issues/163) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+3. ❗️ Opened issue [#162](https://github.com/yiskw713/paper_summary/issues/162) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+4. 🎉 Merged PR [#20](https://github.com/yiskw713/pytorch_template/pull/20) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+5. 💪 Opened PR [#20](https://github.com/yiskw713/pytorch_template/pull/20) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
 <!--END_SECTION:activity-->
 
 ### WakaTime Stats ⌚️
