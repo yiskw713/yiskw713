@@ -74,11 +74,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Rust】HashMapをソートする方法](https://yiskw713.hatenablog.com/entry/2021/06/11/200000)
 - [【Rust】Vec<f32>やVec<f64>に対してソートを実行する](https://yiskw713.hatenablog.com/entry/2021/06/09/075419)
 - [【PyTorch】テンソルのデータ型や形状をアノテーションするtorchtypingを使ってみた](https://yiskw713.hatenablog.com/entry/2021/06/08/072853)
 - [【PyTorch】モデルの可視化を行うtorchinfoを使ってみた](https://yiskw713.hatenablog.com/entry/2021/06/01/070144)
 - [すでに転送済みのファイルを無視してscpする](https://yiskw713.hatenablog.com/entry/2021/05/31/190000)
-- [【Rust】二つのイテレータを同時に回す](https://yiskw713.hatenablog.com/entry/2021/05/28/190000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
