@@ -74,11 +74,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【PyTorch】nn.Sequentialで動画の前処理を行う．](https://yiskw713.hatenablog.com/entry/2021/06/20/232513)
+- [【Rust】順列，組み合わせ，重複組み合わせを列挙する](https://yiskw713.hatenablog.com/entry/2021/06/20/200752)
+- [Starshipを使ってプロンプトをカスタマイズする](https://yiskw713.hatenablog.com/entry/2021/06/20/143130)
 - [【Rust】HashMapをソートする方法](https://yiskw713.hatenablog.com/entry/2021/06/11/200000)
 - [【Rust】Vec<f32>やVec<f64>に対してソートを実行する](https://yiskw713.hatenablog.com/entry/2021/06/09/075419)
-- [【PyTorch】テンソルのデータ型や形状をアノテーションするtorchtypingを使ってみた](https://yiskw713.hatenablog.com/entry/2021/06/08/072853)
-- [【PyTorch】モデルの可視化を行うtorchinfoを使ってみた](https://yiskw713.hatenablog.com/entry/2021/06/01/070144)
-- [すでに転送済みのファイルを無視してscpする](https://yiskw713.hatenablog.com/entry/2021/05/31/190000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
