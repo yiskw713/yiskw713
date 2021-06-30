@@ -74,11 +74,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】del 文について](https://yiskw713.hatenablog.com/entry/2021/06/30/080354)
 - [【Python】モジュール内でそのモジュールへの参照を取得する](https://yiskw713.hatenablog.com/entry/2021/06/25/200000)
 - [【PyTorch】nn.Sequentialで動画の前処理を行う](https://yiskw713.hatenablog.com/entry/2021/06/20/232513)
 - [【Rust】順列，組み合わせ，重複組み合わせを列挙する](https://yiskw713.hatenablog.com/entry/2021/06/20/200752)
 - [Starshipを使ってプロンプトをカスタマイズする](https://yiskw713.hatenablog.com/entry/2021/06/20/143130)
-- [【Rust】HashMapをソートする方法](https://yiskw713.hatenablog.com/entry/2021/06/11/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
