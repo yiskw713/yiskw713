@@ -154,7 +154,7 @@
 <details>
 <summary>Projects</summary>
 
-* **[cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)**
+* **[cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)**<br>
   I wrote about how to efficiently manage experiment results.
 
 * **[RADTorch](https://github.com/radtorch/radtorch) Contributor**<br>
