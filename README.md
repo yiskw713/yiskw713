@@ -10,8 +10,8 @@
   <img align="left" src="https://img.shields.io/twitter/follow/yciskw_?logo=Twitter&style=for-the-badge" />
 </a>
 
-<br />
-<br />
+<br>
+<br>
 
 * 👨‍💻 I'm a first-year PhD candidate, majoring in Computer Vision and Machine Learning. 
 * 🧪 My research topic is about human action recognition.
@@ -54,12 +54,11 @@
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
 [<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
-<br />
+<br>
+<br>
 
 ✉️ : yishikawa[at]aoki-medialab.jp
-
-<br />
-<br />
+<br>
 
 ### Profile 📖
 
@@ -245,7 +244,7 @@
 
 ### GitHub Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Latest Blog Posts 📕
 
