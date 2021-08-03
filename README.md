@@ -255,11 +255,11 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#170](https://github.com/yiskw713/paper_summary/issues/170) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-2. ❗️ Opened issue [#169](https://github.com/yiskw713/paper_summary/issues/169) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-3. ❗️ Opened issue [#168](https://github.com/yiskw713/paper_summary/issues/168) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-4. ❗️ Opened issue [#167](https://github.com/yiskw713/paper_summary/issues/167) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-5. ❗️ Opened issue [#166](https://github.com/yiskw713/paper_summary/issues/166) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+1. ❗️ Opened issue [#174](https://github.com/yiskw713/paper_summary/issues/174) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+2. ❗️ Opened issue [#173](https://github.com/yiskw713/paper_summary/issues/173) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+3. ❗️ Opened issue [#172](https://github.com/yiskw713/paper_summary/issues/172) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+4. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+5. ❗️ Opened issue [#170](https://github.com/yiskw713/paper_summary/issues/170) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
 <!--END_SECTION:activity-->
 
 ### WakaTime Stats ⌚️
