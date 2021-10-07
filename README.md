@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python / Pillow】画像の輝度，シャープネス，コントラスト，彩度を変更する](https://yiskw713.hatenablog.com/entry/2021/10/06/200000)
 - [【Python】アンダースコア(_)の使い方](https://yiskw713.hatenablog.com/entry/2021/08/17/070000)
 - [【Python】不要な変数や返り値にアンダースコア(_)を使用する際の注意点](https://yiskw713.hatenablog.com/entry/2021/08/16/200000)
 - [Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?を読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/07/13/074728)
 - [【Python】del 文について](https://yiskw713.hatenablog.com/entry/2021/06/30/080354)
-- [【Python】モジュール内でそのモジュールへの参照を取得する](https://yiskw713.hatenablog.com/entry/2021/06/25/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
