@@ -20,7 +20,7 @@ jobs:
           # github activity: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
           plugin_activity: yes
           plugin_activity_limit: 10    # Limit to 5 events
-          plugin_activity_days: 0    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_days: 365    # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: all # Show all events (use table above to filter events types)
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
@@ -32,7 +32,7 @@ jobs:
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
           plugin_skyline: yes
-          plugin_skyline_year: 0   # Set to 0 to display current year
+          plugin_skyline_year: 2021   # Set to 0 to display current year
           plugin_skyline_frames: 120        # Use 60 frames (half-loop)
           plugin_skyline_quality: 1        # Set image quality
           
@@ -44,11 +44,11 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0       # Disable limitations
+          plugin_topics_limit: 50       # Disable limitations
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/music/README.md
           plugin_music: yes
-          plugin_music_limit: 4                   # Limit to 4 entries
+          plugin_music_limit: 10                   # Limit to 4 entries
           plugin_music_provider: apple
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en # Use extracted playlist link
