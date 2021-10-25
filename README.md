@@ -264,7 +264,7 @@
 
 ### Metrics
 
-![Metrics](https://github.com/yiskw713/yiskw713/blob/master/github-metrics.svg)
+<img src="https://github.com/yiskw713/yiskw713/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
 ### WakaTime Stats ⌚️
 
