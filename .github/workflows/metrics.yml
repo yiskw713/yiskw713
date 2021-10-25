@@ -1,9 +1,7 @@
 # https://github.com/lowlighter/metrics
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -13,25 +11,22 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: columns
-          
+          config_twemoji: yes
+          config_gemoji: yes
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
-          
+          plugin_isocalendar_duration: full-year
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
           plugin_lines: yes
-          
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md
           plugin_stars: yes
-          plugin_stars_limit: 5 # Limit to 4 entries
-          
+          plugin_stars_limit: 5
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/music/README.md
           plugin_music: yes
-          plugin_music_limit: 5                   # Limit to 4 entries
+          plugin_music_limit: 5
           plugin_music_provider: apple
           plugin_music_mode: playlist
-          plugin_music_playlist: https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en # Use extracted playlist link
+          plugin_music_playlist: https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en
           
