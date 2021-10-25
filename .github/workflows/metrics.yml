@@ -22,3 +22,63 @@ jobs:
           plugin_activity_limit: 10    # Limit to 5 events
           plugin_activity_days: 0    # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: all # Show all events (use table above to filter events types)
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
+          plugin_languages: yes
+          plugin_languages_ignored: html, css                           # List of languages to ignore
+          plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                                # Hides all languages less than 2%
+          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
+          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
+          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
+          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
+          plugin_lines: yes
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
+          plugin_skyline: yes
+          plugin_skyline_year: 0            # Set to 0 to display current year
+          plugin_skyline_frames: 120        # Use 60 frames (half-loop)
+          plugin_skyline_quality: 1.        # Set image quality
+          plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md
+          plugin_stars: yes
+          plugin_stars_limit: 10 # Limit to 4 entries
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/music/README.md
+          plugin_music: yes
+          plugin_music_limit: 4                   # Limit to 4 entries
+          plugin_music_playlist: <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en"></iframe> # Use extracted playlist link
+
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Asia/Tokyo # Set timezone
+          
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
+          plugin_wakatime_user: yiskw713.                           # User
