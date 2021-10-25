@@ -15,6 +15,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          config_display: columns
 
           # github activity: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
           plugin_activity: yes
@@ -31,7 +32,7 @@ jobs:
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
           plugin_skyline: yes
-          plugin_skyline_year: 0            # Set to 0 to display current year
+          plugin_skyline_year: "current-year"   # Set to 0 to display current year
           plugin_skyline_frames: 120        # Use 60 frames (half-loop)
           plugin_skyline_quality: 1.        # Set image quality
           plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
@@ -51,13 +52,5 @@ jobs:
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_provider: apple
           plugin_music_mode: playlist
-          plugin_music_playlist: <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en"></iframe> # Use extracted playlist link
+          plugin_music_playlist: https://embed.music.apple.com/jp/playlist/my-favs/pl.u-oZylKEWC0eRoYV?l=en # Use extracted playlist link
           
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
-          plugin_wakatime_days: 365                                   # Display last week stats
-          plugin_wakatime_sections: time, projects, projects-graphs, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs # Display time and projects sections, along with projects graphs
-          plugin_wakatime_limit: 5                                  # Show 4 entries per graph
-          plugin_wakatime_url: https://wakatime.com                 # Wakatime url endpoint
-          plugin_wakatime_user: yiskw713                            # User
