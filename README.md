@@ -262,6 +262,10 @@
 5. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
 <!--END_SECTION:activity-->
 
+### Metrics
+
+![Metrics](https://github.com/yiskw713/yiskw713/blob/master/github-metrics.svg)
+
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
