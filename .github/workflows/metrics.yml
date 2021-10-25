@@ -15,7 +15,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-#           config_display: columns
+          # config_display: columns
 
           # github activity: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
           plugin_activity: yes
@@ -32,9 +32,9 @@ jobs:
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/skyline/README.md
           plugin_skyline: yes
-          plugin_skyline_year: 2021   # Set to 0 to display current year
+          plugin_skyline_year: 0   # Set to 0 to display current year
           plugin_skyline_frames: 120        # Use 60 frames (half-loop)
-          plugin_skyline_quality: 1        # Set image quality
+          plugin_skyline_quality: 0.5        # Set image quality
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md
           plugin_stars: yes
