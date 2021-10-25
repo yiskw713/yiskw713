@@ -1,3 +1,4 @@
+# https://github.com/lowlighter/metrics
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -15,11 +16,8 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # github activity: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
-      - uses: lowlighter/metrics@latest
-        with:
-          # ... other options
+          # github activity: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
           plugin_activity: yes
-          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_limit: 10    # Limit to 5 events
           plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: all # Show all events (use table above to filter events types)
