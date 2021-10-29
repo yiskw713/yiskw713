@@ -1,7 +1,7 @@
 # https://github.com/lowlighter/metrics
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 0/7 * *"}]
   workflow_dispatch:
 jobs:
   github-metrics:
