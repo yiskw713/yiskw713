@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Starship / Python】Starshipを使用したプロンプト上でpyenv-virtualenvの環境が重複して表示されるのを直す](https://yiskw713.hatenablog.com/entry/2021/12/18/162941)
 - [論文の日本語要約ツイートをslack / LINEに通知するアプリを作った](https://yiskw713.hatenablog.com/entry/2021/11/10/223848)
 - [【Python / Pillow】画像の輝度，シャープネス，コントラスト，彩度を変更する](https://yiskw713.hatenablog.com/entry/2021/10/06/200000)
 - [【Python】アンダースコア&lpar;_&rpar;の使い方](https://yiskw713.hatenablog.com/entry/2021/08/17/070000)
 - [【Python】不要な変数や返り値にアンダースコア&lpar;_&rpar;を使用する際の注意点](https://yiskw713.hatenablog.com/entry/2021/08/16/200000)
-- [Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?を読んだのでメモ](https://yiskw713.hatenablog.com/entry/2021/07/13/074728)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
