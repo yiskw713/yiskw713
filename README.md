@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Gradio / PyTorch】Gradioでセマンティックセグメンテーションを行うデモアプリを作る](https://yiskw713.hatenablog.com/entry/gradio-semantic-segmentation)
 - [【Gradio / PyTorch】Gradioで画像の前処理を可視化するデモを作る](https://yiskw713.hatenablog.com/entry/gradio-preprocess-visualization)
 - [【Gradio / PyTorch】Gradioで画像分類を行うデモアプリを簡単に作る](https://yiskw713.hatenablog.com/entry/gradio_image_classification)
 - [【Starship / Python】Starshipを使用したプロンプト上でpyenv-virtualenvの環境が重複して表示されるのを直す](https://yiskw713.hatenablog.com/entry/2021/12/18/162941)
 - [論文の日本語要約ツイートをslack / LINEに通知するアプリを作った](https://yiskw713.hatenablog.com/entry/2021/11/10/223848)
-- [【Python / Pillow】画像の輝度，シャープネス，コントラスト，彩度を変更する](https://yiskw713.hatenablog.com/entry/2021/10/06/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
