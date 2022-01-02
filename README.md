@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】画像スクランブルを実装する](https://yiskw713.hatenablog.com/entry/image-scrambling)
 - [Jupyter Notebookの&#39;_xsrf&#39; argument missing from POSTというエラーを解消する](https://yiskw713.hatenablog.com/entry/jupyter-notebook-_xsrf-error)
 - [【numpy】opencvで読み込んだ画像を縦・横方向にシフトさせる](https://yiskw713.hatenablog.com/entry/opencv-numpy-image-shift)
 - [【VSCode / Ubuntu】GNOME Tweak Toolを用いて変更したキーマッピングがVSCodeで反映されない問題を解決する](https://yiskw713.hatenablog.com/entry/vscode-key-mapping)
 - [pdoc + GitHub Actionsを使用して，ドキュメントを自動でGitHub Pagesに公開する](https://yiskw713.hatenablog.com/entry/pdoc-github-actions)
-- [【Gradio / PyTorch】YOLOXで物体検出を行うデモアプリを作る](https://yiskw713.hatenablog.com/entry/gradio-yolox-object-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
