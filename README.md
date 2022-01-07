@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】二分探索を実装する](https://yiskw713.hatenablog.com/entry/python-binary-search)
 - [GitHub ActionsからSeleniumを実行する](https://yiskw713.hatenablog.com/entry/selenium-github-actions)
 - [【JupyterLab】jupyterlab-tabnineで405 POST errorが出てしまう](https://yiskw713.hatenablog.com/entry/jupyterlab-tabnine-405)
 - [JupyterLabの環境構築+カスタマイズをする](https://yiskw713.hatenablog.com/entry/jupyterlab-setup)
 - [【Python】Banditを使用して，コードのセキュリティ上の問題を検知する](https://yiskw713.hatenablog.com/entry/python-bandit)
-- [【Python】画像スクランブルを実装する](https://yiskw713.hatenablog.com/entry/image-scrambling)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
