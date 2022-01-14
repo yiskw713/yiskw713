@@ -255,10 +255,10 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
-2. 💪 Opened PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
-3. ❗️ Opened issue [#173](https://github.com/yiskw713/paper_summary/issues/173) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-4. ❗️ Opened issue [#172](https://github.com/yiskw713/paper_summary/issues/172) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
+1. 🎉 Merged PR [#9](https://github.com/yiskw713/cv_utils/pull/9) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
+2. 💪 Opened PR [#9](https://github.com/yiskw713/cv_utils/pull/9) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
+3. 🎉 Merged PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
+4. 💪 Opened PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
 5. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
 <!--END_SECTION:activity-->
 
