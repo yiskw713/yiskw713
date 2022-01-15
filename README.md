@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【OpenCV】画像からマウスでバウンディングボックスを選択して保存する](https://yiskw713.hatenablog.com/entry/2022/01/14/200000)
 - [【Pandas】DataFrameを綺麗に整形されたStringに変換するtabulate](https://yiskw713.hatenablog.com/entry/2022/01/13/190000)
 - [fzfを導入してterminalでの作業効率を爆上げする](https://yiskw713.hatenablog.com/entry/2022/01/12/200000)
 - [【Git】特定の日付でgit commitする](https://yiskw713.hatenablog.com/entry/2022/01/11/070000)
 - [Docker + Pythonを使用したGitHub Actionを自作する](https://yiskw713.hatenablog.com/entry/2022/01/10/100000)
-- [【Rust】ベクタ型からHashSetを作る](https://yiskw713.hatenablog.com/entry/2022/01/09/130806)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
