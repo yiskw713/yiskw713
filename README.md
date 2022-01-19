@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Rust】ベクタ型の要素を右/左にシフトさせる rotate_right / rotate_left](https://yiskw713.hatenablog.com/entry/2022/01/18/200000)
 - [【ONNX / PyTorch】機械学習モデルをグラフィカルに可視化するnetronを使ってみた](https://yiskw713.hatenablog.com/entry/2022/01/17/223548)
 - [cdコマンドの改良版であるzoxideを使ってみた](https://yiskw713.hatenablog.com/entry/2022/01/16/010000)
 - [はてなブログのカスタムURLを使用したら記事のインデックス率が下がった](https://yiskw713.hatenablog.com/entry/2022/01/15/190000)
 - [【OpenCV】画像からマウスでバウンディングボックスを選択して保存する](https://yiskw713.hatenablog.com/entry/2022/01/14/200000)
-- [【Pandas】DataFrameを綺麗に整形されたStringに変換するtabulate](https://yiskw713.hatenablog.com/entry/2022/01/13/190000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
