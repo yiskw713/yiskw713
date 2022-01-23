@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Nerd Fontを使用するとアップルマーク が表示されない](https://yiskw713.hatenablog.com/entry/2022/01/22/200000)
 - [lsコマンドの改良版であるexaでファイル一覧をカラフルに表示する](https://yiskw713.hatenablog.com/entry/2022/01/21/200000)
 - [treeコマンドの改良版であるtreを試してみた](https://yiskw713.hatenablog.com/entry/2022/01/20/010000)
 - [ターミナルでコマンドを間違ったときに修正してくれるThe Fuck](https://yiskw713.hatenablog.com/entry/2022/01/19/200000)
 - [【Rust】ベクタ型の要素を右/左にシフトさせる rotate_right / rotate_left](https://yiskw713.hatenablog.com/entry/2022/01/18/200000)
-- [【ONNX / PyTorch】機械学習モデルをグラフィカルに可視化するnetronを使ってみた](https://yiskw713.hatenablog.com/entry/2022/01/17/223548)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
