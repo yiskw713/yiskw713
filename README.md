@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [プロセスの表示をカラフルにわかりやすくするprocs](https://yiskw713.hatenablog.com/entry/2022/01/24/200000)
 - [【Rust】bit全探索を実装する](https://yiskw713.hatenablog.com/entry/2022/01/23/160000)
 - [Nerd Fontを使用するとアップルマーク が表示されない](https://yiskw713.hatenablog.com/entry/2022/01/22/200000)
 - [lsコマンドの改良版であるexaでファイル一覧をカラフルに表示する](https://yiskw713.hatenablog.com/entry/2022/01/21/200000)
 - [treeコマンドの改良版であるtreを試してみた](https://yiskw713.hatenablog.com/entry/2022/01/20/010000)
-- [ターミナルでコマンドを間違ったときに修正してくれるThe Fuck](https://yiskw713.hatenablog.com/entry/2022/01/19/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
