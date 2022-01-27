@@ -245,11 +245,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】リストから大きい/小さい順にn個の要素を取り出す](https://yiskw713.hatenablog.com/entry/2022/01/26/215040)
 - [【Python】変数の型以外のメタ情報をアノテーションするtyping.Annotated](https://yiskw713.hatenablog.com/entry/2022/01/25/233000)
 - [プロセスの表示をカラフルにわかりやすくするprocs](https://yiskw713.hatenablog.com/entry/2022/01/24/200000)
 - [【Rust】bit全探索を実装する](https://yiskw713.hatenablog.com/entry/2022/01/23/160000)
 - [Nerd Fontを使用するとアップルマーク が表示されない](https://yiskw713.hatenablog.com/entry/2022/01/22/200000)
-- [lsコマンドの改良版であるexaでファイル一覧をカラフルに表示する](https://yiskw713.hatenablog.com/entry/2022/01/21/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
