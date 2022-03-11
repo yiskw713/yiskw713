@@ -186,6 +186,12 @@
 <!-- Recognition -->
 <details>
 <summary>Recognition</summary>
+  
+* **[PythonZen & PEP 8 検定試験](https://pythonzen-pep8-exam.jp/) [Mar. 2022]**
+  
+* **[JDLA Deep Learning for ENGINEER](https://www.jdla.org/en/) [Feb. 2022]**
+
+* **[Python 3 エンジニア認定データ分析試験](https://www.pythonic-exam.com/exam/analyist) [Aug. 2021]**
 
 * **[AWS Cloud Practitioner](https://aws.amazon.com/jp/certification/certified-cloud-practitioner/) [Jul. 2021]**
 
