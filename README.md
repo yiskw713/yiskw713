@@ -261,9 +261,9 @@
 ### GitHub Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/yiskw713/pytorch_template/pull/21) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-2. 💪 Opened PR [#21](https://github.com/yiskw713/pytorch_template/pull/21) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-3. 🎉 Merged PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
+1. ❗️ Closed issue [#6](https://github.com/yiskw713/video_feature_extractor/issues/6) in [yiskw713/video_feature_extractor](https://github.com/yiskw713/video_feature_extractor)
+2. 🎉 Merged PR [#21](https://github.com/yiskw713/pytorch_template/pull/21) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
+3. 💪 Opened PR [#21](https://github.com/yiskw713/pytorch_template/pull/21) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
 4. 💪 Opened PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
 5. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
 <!--END_SECTION:activity-->
