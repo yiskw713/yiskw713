@@ -251,11 +251,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [fzfでCTRL+Rなどのショートカットが機能しない](https://yiskw713.hatenablog.com/entry/2022/04/20/082950)
 - [【Python】wemake-python-styleguideでコードを厳しくチェックする](https://yiskw713.hatenablog.com/entry/wemake-python-styleguide)
 - [【Python】__main__.pyを理解する](https://yiskw713.hatenablog.com/entry/2022/01/27/210000)
 - [【Python】リストから大きい/小さい順にn個の要素を取り出す](https://yiskw713.hatenablog.com/entry/2022/01/26/215040)
 - [【Python】変数の型以外のメタ情報をアノテーションするtyping.Annotated](https://yiskw713.hatenablog.com/entry/2022/01/25/233000)
-- [プロセスの表示をカラフルにわかりやすくするprocs](https://yiskw713.hatenablog.com/entry/2022/01/24/200000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
