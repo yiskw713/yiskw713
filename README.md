@@ -158,6 +158,9 @@
 
 * **[cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)**<br>
   I wrote about how to efficiently manage experiment results.
+  
+* **[動画認識 メタサーベイ](https://www.slideshare.net/cvpaperchallenge/v1-232973484)** [May. 2020]<br>
+  I read papers on Video Recognition and summarized them.
 
 * **[RADTorch](https://github.com/radtorch/radtorch) Contributor**<br>
   My codes for explainable AI are used in RADTorch.
