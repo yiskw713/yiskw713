@@ -83,9 +83,11 @@
 <summary>Experience</summary>
 
 * **Machine Learning Engineer in [Softbank Corp.](https://www.softbank.jp/en/) [Apr. 2021 - present in Tokyo, Japan]**<br>
-  Computer Vision / Edge Device Development
+  Computer Vision / Edge Device Development / Backend Engineer
+  
+* **Technical Advisor in [BizTech, Inc.](https://www.biz-t.jp/) [Apr. 2022 - present in Japan]**<br>
 
-* **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - preseent in Japan]**<br>
+* **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - present in Japan]**<br>
 
 * **Internship in [Tenchijin Inc.](https://tenchijin.co.jp/) [Jun. 2020 – Mar. 2021  in Tokyo, Japan]**<br>
   Backend / Machine Learning Engineer working on the analysis of the big data about space.
@@ -309,7 +311,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-[twitter]: https://twitter.com/yciskw_
+[twitter]: https://twitter.com/yiskw713
 [instagram]: https://www.instagram.com/yciskw_/
 [linkedin]: https://www.linkedin.com/in/yiskw713/
 [facebook]: https://www.facebook.com/yuchi.ishikawa.7
