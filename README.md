@@ -256,11 +256,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】プログラムの終了時に実行する関数を登録できるatexit](https://yiskw713.hatenablog.com/entry/2022/05/05/080000)
+- [【Python】list / array / numpy.array を比較してみた](https://yiskw713.hatenablog.com/entry/2022/05/04/110948)
 - [fzfでCTRL+Rなどのショートカットが機能しない](https://yiskw713.hatenablog.com/entry/2022/04/20/082950)
 - [【Python】wemake-python-styleguideでコードを厳しくチェックする](https://yiskw713.hatenablog.com/entry/wemake-python-styleguide)
 - [【Python】__main__.pyを理解する](https://yiskw713.hatenablog.com/entry/2022/01/27/210000)
-- [【Python】リストから大きい/小さい順にn個の要素を取り出す](https://yiskw713.hatenablog.com/entry/2022/01/26/215040)
-- [【Python】変数の型以外のメタ情報をアノテーションするtyping.Annotated](https://yiskw713.hatenablog.com/entry/2022/01/25/233000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
