@@ -256,11 +256,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [tmuxのステータスラインをいい感じにする](https://yiskw713.hatenablog.com/entry/2022/05/17/230443)
 - [【Python】1行で複数の変数に同時に値を代入するのは遅い](https://yiskw713.hatenablog.com/entry/2022/05/11/210000)
 - [【Python】プログラムの終了時に実行する関数を登録できるatexit](https://yiskw713.hatenablog.com/entry/2022/05/05/080000)
 - [【Python】list / array / numpy.array を比較してみた](https://yiskw713.hatenablog.com/entry/2022/05/04/110948)
 - [fzfでCTRL+Rなどのショートカットが機能しない](https://yiskw713.hatenablog.com/entry/2022/04/20/082950)
-- [【Python】wemake-python-styleguideでコードを厳しくチェックする](https://yiskw713.hatenablog.com/entry/wemake-python-styleguide)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
