@@ -256,11 +256,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Digest #1](https://yiskw713.hatenablog.com/entry/2022/10/23/194126)
 - [【Python】MonkeyTypeを活用して型アノテーションを自動で追加する](https://yiskw713.hatenablog.com/entry/2022/05/21/170000)
 - [MacデフォルトのTerminalからAlacrittyに乗り換える](https://yiskw713.hatenablog.com/entry/2022/05/20/203540)
 - [tmuxのステータスラインをいい感じにする](https://yiskw713.hatenablog.com/entry/2022/05/17/230443)
 - [【Python】1行で複数の変数に同時に値を代入するのは遅い](https://yiskw713.hatenablog.com/entry/2022/05/11/210000)
-- [【Python】プログラムの終了時に実行する関数を登録できるatexit](https://yiskw713.hatenablog.com/entry/2022/05/05/080000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
