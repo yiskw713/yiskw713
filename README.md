@@ -280,11 +280,11 @@
 ### WakaTime Stats ⌚️
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 812 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2023
  > 
 > 📦 12.3 MB Used in GitHub's Storage 
  > 
@@ -292,23 +292,19 @@
  > 
 > 📜 63 Public Repositories 
  > 
-> 🔑 89 Private Repositories  
+> 🔑 93 Private Repositories  
  > 
 **I Mostly Code in Python** 
 
 ```text
-Python                   55 repos            ███████████████░░░░░░░░░░   61.8% 
+Python                   54 repos            ███████████████░░░░░░░░░░   60.67% 
 Jupyter Notebook         16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
 Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49% 
 JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/yiskw713/yiskw713/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
