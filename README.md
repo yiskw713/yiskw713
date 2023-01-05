@@ -256,11 +256,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustコードの基礎を勉強するための演習ができる rustlings](https://yiskw713.hatenablog.com/entry/2023/01/04/213718)
 - [Weekly Digest #1](https://yiskw713.hatenablog.com/entry/2022/10/23/194126)
 - [【Python】MonkeyTypeを活用して型アノテーションを自動で追加する](https://yiskw713.hatenablog.com/entry/2022/05/21/170000)
 - [MacデフォルトのTerminalからAlacrittyに乗り換える](https://yiskw713.hatenablog.com/entry/2022/05/20/203540)
 - [tmuxのステータスラインをいい感じにする](https://yiskw713.hatenablog.com/entry/2022/05/17/230443)
-- [【Python】1行で複数の変数に同時に値を代入するのは遅い](https://yiskw713.hatenablog.com/entry/2022/05/11/210000)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
