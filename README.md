@@ -82,10 +82,13 @@
 <details>
 <summary>Experience</summary>
 
-* **Machine Learning Engineer in [Softbank Corp.](https://www.softbank.jp/en/) [Apr. 2021 - present in Tokyo, Japan]**<br>
-  Computer Vision / Edge Device Development / Backend Engineer
-  
+* **Machine Learning Research Engineer in [LINE Corp.](https://linecorp.com/en/) [Oct. 2022 - present in Tokyo, Japan]**<br>
+  Computer Vision
+
 * **Technical Advisor in [BizTech, Inc.](https://www.biz-t.jp/) [Apr. 2022 - present in Japan]**<br>
+
+* **Machine Learning Engineer in [Softbank Corp.](https://www.softbank.jp/en/) [Apr. 2021 - Sep. 2022 in Tokyo, Japan]**<br>
+  Computer Vision / Edge Device Development / Backend Engineer
 
 * **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - present in Japan]**<br>
 
