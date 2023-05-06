@@ -3,7 +3,7 @@
 <a href="https://yiskw713.hatenablog.com/">
   <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
 </a>
-<a href="https://twitter.com/yiskwy713">
+<a href="https://twitter.com/yiskw713">
   <img align="left" src="https://img.shields.io/twitter/follow/yiskw713?logo=Twitter&style=for-the-badge" />
 </a>
 
