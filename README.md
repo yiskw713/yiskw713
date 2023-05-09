@@ -259,11 +259,11 @@
 ### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】特定の行だけBlackによるコード整形を行わないようにする](https://yiskw713.hatenablog.com/entry/2023/05/08/190000)
 - [【Python】定数管理のための、値の追加・変更を不可にするクラスを実装する](https://yiskw713.hatenablog.com/entry/2023/05/05/182048)
 - [【numpy】特定の範囲だけにseedを設定する](https://yiskw713.hatenablog.com/entry/2023/02/06/190000)
 - [【Linux】ハイフンから始まるファイルを指定する](https://yiskw713.hatenablog.com/entry/2023/02/03/120000)
 - [【Python】boxに公開されているデータを一括ダウンロードする](https://yiskw713.hatenablog.com/entry/2023/01/30/200000)
-- [【Python】Factory / Factory Method / Abstract Factory の違い](https://yiskw713.hatenablog.com/entry/2023/01/22/151940)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Activities
