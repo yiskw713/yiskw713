@@ -138,6 +138,8 @@
 
 #### Domestic Conference
 
+* **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, Video and Model Encryption for Privacy-Preserving Action Recognition, 第26回画像の認識・理解シンポジウム (MIRU2023)
+
 * **石川裕地**，石川晴也，秋月秀一，青木義満，Action Segmentation における損失関数の検証，第26回画像センシングシンポジウム(SSII 2020)
 
 * Seito KASAI, **Yuchi ISHIKAWA**, Tenga WAKAMIYA, Kensho HARA, Hirokatsu KATAOKA, Exploring the Best Model for Dense Captioning Events in Videos, 第22回画像の認識・理解シンポジウム (MIRU2019)
