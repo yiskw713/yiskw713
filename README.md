@@ -45,10 +45,11 @@
 
 ### Where to Find Me 👀
 
-[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
-[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
-[<img align="left" width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+[<img align="left" width="40px" src="https://www.svgrepo.com/show/349396/google-scholar.svg" />][googlescholar]
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/317/PNG/512/social-twitter-icon_34350.png" />][twitter]
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />][facebook]
 
 <br>
 <br>
@@ -321,7 +322,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+[googlescholar]: https://scholar.google.com/citations?user=IEF2iOkAAAAJ&hl=en&oi=ao
 [twitter]: https://twitter.com/yiskw713
 [instagram]: https://www.instagram.com/yciskw_/
 [linkedin]: https://www.linkedin.com/in/yiskw713/
