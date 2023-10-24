@@ -10,7 +10,7 @@
 <br>
 <br>
 
-* 👨‍💻 I'm a first-year PhD candidate, majoring in Computer Vision and Machine Learning. 
+* 👨‍💻 I'm a third-year PhD candidate, majoring in Computer Vision and Machine Learning. 
 * 🧪 My research topic is about human action recognition.
 * 😎 I'm curious about everything and I'm currently learning Rust language.
 * 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
@@ -82,7 +82,10 @@
 <details>
 <summary>Experience</summary>
 
-* **Machine Learning Research Engineer in [LINE Corp.](https://linecorp.com/en/) [Oct. 2022 - present in Tokyo, Japan]**<br>
+* **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - present in Tokyo, Japan]**<br>
+  Computer Vision
+
+* **Machine Learning Research Engineer in [LINE Corp.](https://linecorp.com/en/) [Oct. 2022 - Sep. 2023 in Tokyo, Japan]**<br>
   Computer Vision
 
 * **Technical Advisor in [BizTech, Inc.](https://www.biz-t.jp/) [Apr. 2022 - present in Japan]**<br>
@@ -120,6 +123,10 @@
 * **石川裕地**，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定, 精密工学会 85巻12号 (2019年12月5日発行)
 
 #### International Conference
+
+* **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, "Learnable Cube-based Video Encryption for Privacy-Preserving Action Recognition" in WACV 2024
+
+* Shuhei Yokoo, Peifei Zhu, **Yuchi Ishikawa**, Mikihiro Tanaka, Masayoshi Kondo, Hirokatsu Kataoka, "Leveraging Image-Text Similarity and Caption Modification for the DataComp Challenge: Filtering Track and BYOD Track" in ICCV 2023 Workshop on Towards the Next Generation of Computer Vision Datasets: DataComp Track. [arXiv](https://arxiv.org/abs/2310.14581)
 
 * Kensho Hara, **Yuchi Ishikawa**, Hirokatsu Kataoka, "Rethinking Training Data for Mitigating Representation Biases in Action Recognition" in CVPR 2021 Workshop on Large Scale Holistic Video Understanding 2021
 
