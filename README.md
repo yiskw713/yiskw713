@@ -125,7 +125,7 @@
 
 #### International Conference
 
-* **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, "Learnable Cube-based Video Encryption for Privacy-Preserving Action Recognition" in WACV 2024
+* **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, "Learnable Cube-based Video Encryption for Privacy-Preserving Action Recognition" in WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ishikawa_Learnable_Cube-Based_Video_Encryption_for_Privacy-Preserving_Action_Recognition_WACV_2024_paper.pdf)
 
 * Shuhei Yokoo, Peifei Zhu, **Yuchi Ishikawa**, Mikihiro Tanaka, Masayoshi Kondo, Hirokatsu Kataoka, "Leveraging Image-Text Similarity and Caption Modification for the DataComp Challenge: Filtering Track and BYOD Track" in ICCV 2023 Workshop on Towards the Next Generation of Computer Vision Datasets: DataComp Track. [arXiv](https://arxiv.org/abs/2310.14581)
 
@@ -145,6 +145,12 @@
 * Haruya Ishikawa, **Yuchi Ishikawa**, Shuichi Akizuki, Yoshimitsu Aoki, "Human-Object Maps for Daily Activity Recognition" in International Conference on Machine Vision Applications(MVA 2019)
 
 #### Domestic Conference
+
+* **石川 裕地**, 近藤 雅芳, 青木 義満, 三重マスクを用いたVideoMAEの効率化, 動的画像処理実利用化ワークショップ2024 (DIA2024)
+
+* **石川 裕地**, 近藤 雅芳, 青木 義満, 自然動画を用いない動画認識モデルの自己教師あり学習, 動的画像処理実利用化ワークショップ2024 (DIA2024)
+
+* **石川 裕地**, 近藤 雅芳, 青木 義満, Training Video Masked Autoencoder from Static Images, in ビジョン技術の実利用ワークショップ2023 (ViEW 2023)
 
 * **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, Video and Model Encryption for Privacy-Preserving Action Recognition, 第26回画像の認識・理解シンポジウム (MIRU2023)
 
