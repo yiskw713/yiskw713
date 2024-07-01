@@ -125,6 +125,8 @@
 
 #### International Conference
 
+* **Yuchi Ishikawa**, Masayoshi Kondo, Yoshimitsu Aoki, "Data Collection-free Masked Video Modeling" in ECCV 2024.
+
 * **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, "Learnable Cube-based Video Encryption for Privacy-Preserving Action Recognition" in WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ishikawa_Learnable_Cube-Based_Video_Encryption_for_Privacy-Preserving_Action_Recognition_WACV_2024_paper.pdf)
 
 * Shuhei Yokoo, Peifei Zhu, **Yuchi Ishikawa**, Mikihiro Tanaka, Masayoshi Kondo, Hirokatsu Kataoka, "Leveraging Image-Text Similarity and Caption Modification for the DataComp Challenge: Filtering Track and BYOD Track" in ICCV 2023 Workshop on Towards the Next Generation of Computer Vision Datasets: DataComp Track. [arXiv](https://arxiv.org/abs/2310.14581)
