@@ -204,6 +204,8 @@
 <details>
 <summary>Articles</summary>
 
+ [3 papers accepted at ECCV 2024](https://research.lycorp.co.jp/en/news/250)
+
 * **Interview with a manager of the AI department in Softbank**<br>
   [SF映画の世界はもう実現している？ ソフトバンク AI部門 部長とAI専攻学生の対談](https://www.softbank.jp/sbnews/entry/20191108_01)
 
