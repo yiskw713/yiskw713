@@ -40,18 +40,13 @@ Hi there👋, I'm Yuchi Ishikawa.
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />][facebook]
-
-<br>
-<br>
-<a href="https://yiskw713.hatenablog.com/">
-  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
-</a>
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/blog_blogger_business_news_web_website_icon_123264.png" />][blog]
 
 <br>
 <br>
 
 ✉️ : yishikawa[at]aoki-medialab.jp
-<br>
+
 
 ### Profile 📖
 
