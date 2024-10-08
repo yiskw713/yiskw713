@@ -1,15 +1,5 @@
 Hi there👋, I'm Yuchi Ishikawa.
 
-<a href="https://yiskw713.hatenablog.com/">
-  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
-</a>
-<a href="https://twitter.com/yiskw713">
-  <img align="left" src="https://img.shields.io/twitter/follow/yiskw713?logo=Twitter&style=for-the-badge" />
-</a>
-
-<br>
-<br>
-
 * 👨‍💻 I'm a third-year PhD candidate, majoring in Computer Vision and Machine Learning. 
 * 🧪 My research topic is about human action recognition.
 * 😎 I'm curious about everything and I'm currently learning Rust language.
@@ -50,6 +40,12 @@ Hi there👋, I'm Yuchi Ishikawa.
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />][facebook]
+
+<br>
+<br>
+<a href="https://yiskw713.hatenablog.com/">
+  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
+</a>
 
 <br>
 <br>
