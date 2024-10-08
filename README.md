@@ -1,4 +1,4 @@
-<img src="https://github.com/yiskw713/yiskw713/blob/master/header.png?raw=true">
+Hi there👋, I'm Yuchi Ishikawa.
 
 <a href="https://yiskw713.hatenablog.com/">
   <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://yiskw713.hatenablog.com/" />
@@ -119,13 +119,13 @@
 <details>
 <summary>Publications</summary>
 
-#### Journal
+#### Preprint
 
-* **石川裕地**，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定, 精密工学会 85巻12号 (2019年12月5日発行)
+* **Yuchi Ishikawa**, Tatsuya Komatsu, Yoshimitsu Aoki, "Pre-training with Synthetic Patterns for Audio", in arXiv:2410.00511. [paper](https://www.arxiv.org/abs/2410.00511)
 
 #### International Conference
 
-* **Yuchi Ishikawa**, Masayoshi Kondo, Yoshimitsu Aoki, "Data Collection-free Masked Video Modeling" in ECCV 2024.
+* **Yuchi Ishikawa**, Masayoshi Kondo, Yoshimitsu Aoki, "Data Collection-free Masked Video Modeling" in ECCV 2024. [paper](https://arxiv.org/abs/2409.06665)
 
 * **Yuchi Ishikawa**, Masayoshi Kondo, Hirokatsu Kataoka, "Learnable Cube-based Video Encryption for Privacy-Preserving Action Recognition" in WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ishikawa_Learnable_Cube-Based_Video_Encryption_for_Privacy-Preserving_Action_Recognition_WACV_2024_paper.pdf)
 
@@ -145,6 +145,10 @@
 * Tenga Wakamiya, Kensho Hara, **Yuchi Ishikawa**, Seito Kasai, Hirokatsu Kataoka, “AIST Submission for ActivityNet Challenge 2019 in Trimmed Activity Recognition (Kinetics),” in CVPR 2019 Workshop, International Challenge on ActivityNet Challenge, 2019.
 
 * Haruya Ishikawa, **Yuchi Ishikawa**, Shuichi Akizuki, Yoshimitsu Aoki, "Human-Object Maps for Daily Activity Recognition" in International Conference on Machine Vision Applications(MVA 2019)
+
+#### Journal
+
+* **石川裕地**，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定, 精密工学会 85巻12号 (2019年12月5日発行)
 
 #### Domestic Conference
 
