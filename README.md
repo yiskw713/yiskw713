@@ -1,10 +1,10 @@
 Hi there👋, I'm Yuchi Ishikawa.
 
 * 👨‍💻 I'm a third-year PhD candidate, majoring in Computer Vision and Machine Learning. 
-* 🧪 My research topic is about human action recognition.
+* 🧪 My research topic is about video understanding and self-supervised learning.
 * 😎 I'm curious about everything and I'm currently learning Rust language.
-* 🎒 I love traveling all over the world. I've been to over 25 countries and landed on the seven continents so far.
-* 🏃⛳️  I've been getting into running a marathon and playing golf lately.
+* 🎒 I love traveling all over the world. I've been to over 30 countries and landed on the seven continents so far.
+* 🍺🍶 I also love drinking beer and Japanese sake.
 
 ### Languages and Skills
 
