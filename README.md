@@ -112,9 +112,11 @@ Hi there👋, I'm Yuchi Ishikawa.
 
 #### Preprint
 
-* **Yuchi Ishikawa**, Tatsuya Komatsu, Yoshimitsu Aoki, "Pre-training with Synthetic Patterns for Audio", in arXiv:2410.00511. [paper](https://www.arxiv.org/abs/2410.00511)
+coming soon...
 
 #### International Conference
+
+* **Yuchi Ishikawa**, Tatsuya Komatsu, Yoshimitsu Aoki, "Pre-training with Synthetic Patterns for Audio", in ICASSP 2025. [paper](https://www.arxiv.org/abs/2410.00511)
 
 * **Yuchi Ishikawa**, Masayoshi Kondo, Yoshimitsu Aoki, "Data Collection-free Masked Video Modeling" in ECCV 2024. [paper](https://arxiv.org/abs/2409.06665)
 
@@ -142,6 +144,14 @@ Hi there👋, I'm Yuchi Ishikawa.
 * **石川裕地**，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定, 精密工学会 85巻12号 (2019年12月5日発行)
 
 #### Domestic Conference
+
+* **石川 裕地**, 齋藤主裕, 青木義満, "動画データと画像キャプション生成を用いた音とテキストペアの自動生成", 言語処理学会第31回年次大会(NLP2025)
+
+* **⽯川 裕地**，⻘⽊ 義満, 暗号化動画を⽤いたプライバシー保護下での視聴覚⾏動認識, ビジョン技術の実利用ワークショップ2024 (ViEW 2024)
+
+* 齋藤 主裕，**⽯川 裕地**, Pseudo-Motion Videoの多様化による動画認識モデルの事前学習の⾼精度化の検討, ビジョン技術の実利用ワークショップ2024 (ViEW 2024)
+
+* Naoya Nakajima, **Yuchi Ishikawa**, Masayoshi Kondo, 動画クラスタリングのためのDINOの動画への拡張の検討, 第27回画像の認識・理解シンポジウム (MIRU2024)
 
 * **石川 裕地**, 近藤 雅芳, 青木 義満, 三重マスクを用いたVideoMAEの効率化, 動的画像処理実利用化ワークショップ2024 (DIA2024)
 
@@ -199,7 +209,9 @@ Hi there👋, I'm Yuchi Ishikawa.
 <details>
 <summary>Articles</summary>
 
- [3 papers accepted at ECCV 2024](https://research.lycorp.co.jp/en/news/250)
+* [Seven papers accepted at ICASSP 2025](https://research.lycorp.co.jp/en/news/283)
+
+* [3 papers accepted at ECCV 2024](https://research.lycorp.co.jp/en/news/250)
 
 * **Interview with a manager of the AI department in Softbank**<br>
   [SF映画の世界はもう実現している？ ソフトバンク AI部門 部長とAI専攻学生の対談](https://www.softbank.jp/sbnews/entry/20191108_01)
@@ -209,6 +221,8 @@ Hi there👋, I'm Yuchi Ishikawa.
 <!-- Recognition -->
 <details>
 <summary>Recognition</summary>
+
+* **[コーヒーインストラクター検定 2級](https://kentei.jcqa.org/index.asp) [Jun. 2024]**
   
 * **[PythonZen & PEP 8 検定試験](https://pythonzen-pep8-exam.jp/) [Mar. 2022]**
   
