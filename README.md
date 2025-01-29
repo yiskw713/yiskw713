@@ -1,6 +1,6 @@
-Hi there👋, I'm Yuchi Ishikawa.
+Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 
-* 👨‍💻 I'm a third-year PhD candidate, majoring in Computer Vision and Machine Learning. 
+* 👨‍💻 I'm a third-year PhD candidate in Japan, majoring in Computer Vision and Machine Learning. 
 * 🧪 My research topic is about video understanding and self-supervised learning.
 * 😎 I'm curious about everything and I'm currently learning Rust language.
 * 🎒 I love traveling all over the world. I've been to over 30 countries and landed on the seven continents so far.
@@ -221,6 +221,8 @@ coming soon...
 <!-- Recognition -->
 <details>
 <summary>Recognition</summary>
+
+* **[日本酒検定 3級](https://ssi-w.com/nihonsyu-kentei/) [Jan. 2025]**
 
 * **[コーヒーインストラクター検定 2級](https://kentei.jcqa.org/index.asp) [Jun. 2024]**
   
