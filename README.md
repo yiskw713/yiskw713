@@ -2,7 +2,6 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 
 * 👨‍💻 I'm a third-year PhD candidate in Japan, majoring in Computer Vision and Machine Learning. 
 * 🧪 My research topic is about video understanding and self-supervised learning.
-* 😎 I'm curious about everything and I'm currently learning Rust language.
 * 🎒 I love traveling all over the world. I've been to over 30 countries and landed on the seven continents so far.
 * 🍺🍶 I also love drinking beer and Japanese sake.
 
@@ -36,10 +35,10 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 ### Where to Find Me 👀
 
 [<img align="left" width="40px" src="https://www.svgrepo.com/show/349396/google-scholar.svg" />][googlescholar]
-[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/317/PNG/512/social-twitter-icon_34350.png" />][twitter]
-[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
-[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
-[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />][facebook]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg" />][twitter]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />][linkedin]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" />][instagram]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/facebook.svg" />][facebook]
 [<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/blog_blogger_business_news_web_website_icon_123264.png" />][blog]
 
 <br>
@@ -222,6 +221,8 @@ coming soon...
 <details>
 <summary>Recognition</summary>
 
+* **[日本酒検定 2級](https://ssi-w.com/nihonsyu-kentei/) [Feb. 2025]**
+
 * **[日本酒検定 3級](https://ssi-w.com/nihonsyu-kentei/) [Jan. 2025]**
 
 * **[コーヒーインストラクター検定 2級](https://kentei.jcqa.org/index.asp) [Jun. 2024]**
@@ -306,42 +307,6 @@ coming soon...
 4. 💪 Opened PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
 5. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
 <!--END_SECTION:activity-->
-
-<!-- ### Metrics
-
-<img src="https://github.com/yiskw713/yiskw713/blob/master/github-metrics.svg" alt="Metrics" width="75%"> -->
-
-### WakaTime Stats ⌚️
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 39 Contributions in the Year 2023
- > 
-> 📦 12.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 64 Public Repositories 
- > 
-> 🔑 96 Private Repositories  
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   53 repos            ███████████████░░░░░░░░░░   59.55 % 
-Jupyter Notebook         17 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Rust                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 [googlescholar]: https://scholar.google.com/citations?user=IEF2iOkAAAAJ&hl=en&oi=ao
 [twitter]: https://twitter.com/yiskw713
