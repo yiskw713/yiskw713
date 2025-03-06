@@ -1,9 +1,9 @@
 Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 
-* 👨‍💻 I'm a third-year PhD candidate in Japan, majoring in Computer Vision and Machine Learning. 
+* 👨‍💻 I'm currently working as a research engineer at LY Corporation while pursuing my PhD in Japan, majoring in Computer Vision and Machine Learning.
 * 🧪 My research topic is about video understanding and self-supervised learning.
 * 🎒 I love traveling all over the world. I've been to over 30 countries and landed on the seven continents so far.
-* 🍺🍶 I also love drinking beer and Japanese sake.
+* 🍺🍶 I'm really into Japanese sake and beer, and I also help sell sake as a side job.
 
 ### Languages and Skills
 
