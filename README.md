@@ -115,6 +115,10 @@ coming soon...
 
 #### International Conference
 
+* Tatsuya Komatsu, Hokuto Munakata, **Yuchi Ishikawa**, "Leveraging Unlabeled Audio for Audio-Text Contrastive Learning via Audio-Composed Text Features", in Interspeech 2025.
+
+* **Yuchi Ishikawa**, Shota Nakada, Hokuto Munakata, Kazuhiro Saito, Tatsuya Komatsu, Yoshimitsu Aoki, "Language-Guided Contrastive Audio-Visual Masked Autoencoder with Automatically Generated Audio-Visual-Text Triplets from Videos", in Interspeech 2025. [paper](https://arxiv.org/abs/2507.11967)
+
 * **Yuchi Ishikawa**, Tatsuya Komatsu, Yoshimitsu Aoki, "Pre-training with Synthetic Patterns for Audio", in ICASSP 2025. [paper](https://www.arxiv.org/abs/2410.00511)
 
 * **Yuchi Ishikawa**, Masayoshi Kondo, Yoshimitsu Aoki, "Data Collection-free Masked Video Modeling" in ECCV 2024. [paper](https://arxiv.org/abs/2409.06665)
@@ -143,6 +147,10 @@ coming soon...
 * **石川裕地**，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定, 精密工学会 85巻12号 (2019年12月5日発行)
 
 #### Domestic Conference
+
+* **石川 裕地**, 小松 達也, 仲田 勝太, 宗像 北斗, 齋藤 主裕, 青木 義満, "視聴覚認識のためのトリモーダル学習と自動データ生成の提案", 第28回画像の認識・理解シンポジウム (MIRU2025)
+
+* 齋藤 主裕, 小松 達也, **石川 裕地**, 近藤 雅芳,"プライバシー保護のためのVision Transformerモデルの暗号化法", 第28回画像の認識・理解シンポジウム (MIRU2025)
 
 * **石川 裕地**, 齋藤主裕, 青木義満, "動画データと画像キャプション生成を用いた音とテキストペアの自動生成", 言語処理学会第31回年次大会(NLP2025)
 
