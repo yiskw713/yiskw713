@@ -76,6 +76,9 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 * **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - present in Tokyo, Japan]**<br>
   Computer Vision
 
+* **Sake Sales Staff (Part-time) [Feb. 2025 - present in Tokyo, Japan]**<br>
+Japanese sake sales and customer service
+
 * **Machine Learning Research Engineer in [LINE Corp.](https://linecorp.com/en/) [Oct. 2022 - Sep. 2023 in Tokyo, Japan]**<br>
   Computer Vision
 
@@ -111,7 +114,9 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 
 #### Preprint
 
-coming soon...
+* **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in arXiv 2025.
+
+* Toranosuke Manabe, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, "ProLAP: Probabilistic Language-Audio Pre-Training", in arXiv 2025. [paper](https://arxiv.org/abs/2510.18423)
 
 #### International Conference
 
@@ -131,8 +136,7 @@ coming soon...
 
 * **Yuchi Ishikawa**, Seito Kasai, Yoshimitsu Aoki, Hirokatsu kataoka, "Alleviating Over-segmentation Errors by Detecting Action Boundaries" in WACV 2021. [arXiv](https://arxiv.org/abs/2007.06866)
 
-* Seito Kasai, **Yuchi Ishikawa**, Masaki Hayashi, Yoshimitsu Aoki, Kensho Hara, Hirokatsu Kataoka
-, “RETRIEVING AND HIGHLIGHTING ACTION WITH SPATIOTEMPORAL REFERENCE” in IEEE ICIP 2020. [arXiv](https://arxiv.org/abs/2005.09183?context=cs)
+* Seito Kasai, **Yuchi Ishikawa**, Masaki Hayashi, Yoshimitsu Aoki, Kensho Hara, Hirokatsu Kataoka, “RETRIEVING AND HIGHLIGHTING ACTION WITH SPATIOTEMPORAL REFERENCE” in IEEE ICIP 2020. [arXiv](https://arxiv.org/abs/2005.09183?context=cs)
 
 * **Yuchi Ishikawa**, Haruya Ishikawa, Shuichi Akizuki, Masaki Yamazaki, Yasuhiro Taniguchi, Yoshimitsu Aoki, "Task-oriented Function Detection Based on Operational Tasks" in Conference: 2019 19th International Conference on Advanced Robotics (ICAR). (Acceptance Rate 55.3%)
 
