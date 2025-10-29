@@ -114,7 +114,7 @@ Japanese sake sales and customer service
 
 #### Preprint
 
-* **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in arXiv 2025.
+* **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in arXiv 2025. [paper](https://arxiv.org/abs/2510.24024)
 
 * Toranosuke Manabe, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, "ProLAP: Probabilistic Language-Audio Pre-Training", in arXiv 2025. [paper](https://arxiv.org/abs/2510.18423)
 
