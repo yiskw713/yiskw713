@@ -233,6 +233,8 @@ Japanese sake sales and customer service
 <details>
 <summary>Recognition</summary>
 
+* **[日本酒検定 準1級](https://ssi-w.com/nihonsyu-kentei/) [Mar. 2025]**
+
 * **[日本酒検定 2級](https://ssi-w.com/nihonsyu-kentei/) [Feb. 2025]**
 
 * **[日本酒検定 3級](https://ssi-w.com/nihonsyu-kentei/) [Jan. 2025]**
