@@ -114,13 +114,15 @@ Japanese sake sales and customer service
 
 #### Preprint
 
+* Shota Nakada, Kazuhiro Saito, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, Masayoshi Kondo, "Hallucination Localization in Video Captioning", in arXiv 2025. [paper](https://arxiv.org/abs/2510.25225)
+
 * **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in arXiv 2025. [paper](https://arxiv.org/abs/2510.24024)
 
 * Toranosuke Manabe, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, "ProLAP: Probabilistic Language-Audio Pre-Training", in arXiv 2025. [paper](https://arxiv.org/abs/2510.18423)
 
 #### International Conference
 
-* Tatsuya Komatsu, Hokuto Munakata, **Yuchi Ishikawa**, "Leveraging Unlabeled Audio for Audio-Text Contrastive Learning via Audio-Composed Text Features", in Interspeech 2025.
+* Tatsuya Komatsu, Hokuto Munakata, **Yuchi Ishikawa**, "Leveraging Unlabeled Audio for Audio-Text Contrastive Learning via Audio-Composed Text Features", in Interspeech 2025. [paper](https://www.isca-archive.org/interspeech_2025/komatsu25_interspeech.html)
 
 * **Yuchi Ishikawa**, Shota Nakada, Hokuto Munakata, Kazuhiro Saito, Tatsuya Komatsu, Yoshimitsu Aoki, "Language-Guided Contrastive Audio-Visual Masked Autoencoder with Automatically Generated Audio-Visual-Text Triplets from Videos", in Interspeech 2025. [paper](https://arxiv.org/abs/2507.11967)
 
