@@ -231,9 +231,16 @@ Japanese sake sales and customer service
 
 </details>
 
-<!-- Recognition -->
+<!-- Certifications -->
 <details>
-<summary>Recognition</summary>
+<summary>Certifications</summary>
+
+* **[AWS Certified Machine Learning Engineer - Associate](
+https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) [Dec. 2025]**
+
+* **[AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) [Nov. 2025]**
+
+* **[AWS Cloud Practitioner](https://aws.amazon.com/jp/certification/certified-cloud-practitioner/) [Renewed Nov. 2025]**
 
 * **[日本酒検定 準1級](https://ssi-w.com/nihonsyu-kentei/) [Mar. 2025]**
 
@@ -260,7 +267,7 @@ Japanese sake sales and customer service
   National Examination on Information Technology in Japan
 
 * **[JDLA Deep Learning for GENERAL](https://www.jdla.org/en/) [Jul. 2019]**<br>
-  JDLA aims to develop Deep Learning Generalist, capable of utilizing in business, which has sufficient knowledge in Deep Leaning.
+  JDLA aims to develop Deep Learning Generalist, capable of utilizing in business, which has sufficient knowledge in Deep Learning.
 
 * **Outstanding Performance Award for Bachelor Theses [Mar. 2019]**<br>
   My bachelor thesis topic is “Task-oriented Function Detection Based on Operational Tasks”.
