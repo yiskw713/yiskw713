@@ -235,8 +235,9 @@ Japanese sake sales and customer service
 <details>
 <summary>Certifications</summary>
 
-* **[AWS Certified Machine Learning Engineer - Associate](
-https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) [Dec. 2025]**
+* **[AWS Certified Developer - Associate](https://aws.amazon.com/jp/certification/certified-developer-associate/) [Dec. 2025]**
+
+* **[AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) [Dec. 2025]**
 
 * **[AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) [Nov. 2025]**
 
