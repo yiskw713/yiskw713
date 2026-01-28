@@ -222,6 +222,8 @@ Japanese sake sales and customer service
 <details>
 <summary>Articles</summary>
 
+* [LINEヤフーが「動画生成AI」に本気で挑む理由。圧倒的なデータ資産を武器に、研究から社会実装へ](https://note.com/lycorp_recruit/n/n5d64e0de30c7)
+
 * [Seven papers accepted at ICASSP 2025](https://research.lycorp.co.jp/en/news/283)
 
 * [3 papers accepted at ECCV 2024](https://research.lycorp.co.jp/en/news/250)
