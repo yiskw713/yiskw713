@@ -216,6 +216,10 @@ Japanese sake sales and customer service
 * **[Paper Summary](https://github.com/yiskw713/paper_summary)**<br>
   I read papers every day and summarize them as far as possible in GitHub. If you get interested, visit [my project page](https://github.com/yiskw713/paper_summary).
 
+* **3rd place award in MIRU 2018 Young Researchers Program [Aug. 2018]**<br>
+  As a young researcher program in MIRU 2018, participants were divided into several groups and each group read papers in the field outside Computer Vision. Then, each group summarized the history, the trend and the conection with Computer Vision. It helped us not only understand different fields, but also consider how we can make use of knowledge about them for Computer Vision.<br>
+  Our group, C, read papers in the field of Robotics, focusing on “Transferring Knowledge from Simulation to Real”. You can see our poster and presentation material from [this link](https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99?authuser=0).
+
 </details>
 
 <!-- Article -->
@@ -235,7 +239,9 @@ Japanese sake sales and customer service
 
 <!-- Certifications -->
 <details>
-<summary>Certifications</summary>
+<summary>Technical Certifications</summary>
+
+* **[CKAD: Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) [Jun. 2026]**
 
 * **[AWS Certified Solutions Architect - Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) [Jan. 2026]**
 
@@ -246,14 +252,6 @@ Japanese sake sales and customer service
 * **[AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) [Nov. 2025]**
 
 * **[AWS Cloud Practitioner](https://aws.amazon.com/jp/certification/certified-cloud-practitioner/) [Renewed Nov. 2025]**
-
-* **[日本酒検定 準1級](https://ssi-w.com/nihonsyu-kentei/) [Mar. 2025]**
-
-* **[日本酒検定 2級](https://ssi-w.com/nihonsyu-kentei/) [Feb. 2025]**
-
-* **[日本酒検定 3級](https://ssi-w.com/nihonsyu-kentei/) [Jan. 2025]**
-
-* **[コーヒーインストラクター検定 2級](https://kentei.jcqa.org/index.asp) [Jun. 2024]**
   
 * **[PythonZen & PEP 8 検定試験](https://pythonzen-pep8-exam.jp/) [Mar. 2022]**
   
@@ -273,17 +271,21 @@ Japanese sake sales and customer service
 
 * **[JDLA Deep Learning for GENERAL](https://www.jdla.org/en/) [Jul. 2019]**<br>
   JDLA aims to develop Deep Learning Generalist, capable of utilizing in business, which has sufficient knowledge in Deep Learning.
+</details>
 
-* **Outstanding Performance Award for Bachelor Theses [Mar. 2019]**<br>
-  My bachelor thesis topic is “Task-oriented Function Detection Based on Operational Tasks”.
-  I proposed an alternative representation to Affordance, “Task-oriented Function”, in the paper. This representation makes it possible to desribe a variety of ways to use an object, though only one usage can be described in Affordance Detection in the field of Computer Vision.
+<!-- Certifications -->
+<details>
+<summary>Other Certifications</summary>
+ 
+* **[日本酒検定 準1級](https://ssi-w.com/nihonsyu-kentei/) [Mar. 2025]**
 
-* **3rd place award in MIRU 2018 Young Researchers Program [Aug. 2018]**<br>
-  As a young researcher program in MIRU 2018, participants were divided into several groups and each group read papers in the field outside Computer Vision. Then, each group summarized the history, the trend and the conection with Computer Vision. It helped us not only understand different fields, but also consider how we can make use of knowledge about them for Computer Vision.<br>
-  Our group, C, read papers in the field of Robotics, focusing on “Transferring Knowledge from Simulation to Real”. You can see our poster and presentation material from [this link](https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99?authuser=0).
+* **[日本酒検定 2級](https://ssi-w.com/nihonsyu-kentei/) [Feb. 2025]**
 
-* **[TOEIC](https://www.iibc-global.org/english.html) [May 2018]**<br>
-  Score: 940
+* **[日本酒検定 3級](https://ssi-w.com/nihonsyu-kentei/) [Jan. 2025]**
+
+* **[コーヒーインストラクター検定 2級](https://kentei.jcqa.org/index.asp) [Jun. 2024]**
+  
+* **[TOEIC](https://www.iibc-global.org/english.html) Score: 940 [May 2018]**<br>
 
 </details>
 
@@ -300,21 +302,6 @@ Japanese sake sales and customer service
   I received this scholorship which aims at supporting up to a hundred of capable students studying Artificial Intelligence in Japan.
 
 </details>
-
-### GitHub Streaks 🏃‍♂️
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yiskw713&theme=gotham&hide_border=true)](https://git.io/streak-stats)
-
-### GitHub Stats ✨
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yiskw713&count_private=true&show_icons=true&theme=gotham&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiskw713&hide=jupyter%20notebook&layout=compact&theme=gotham" />
-
-<br />
-
-### GitHub Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yiskw713&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Latest Blog Posts 📕
 
