@@ -313,16 +313,6 @@ Japanese sake sales and customer service
 - [【Python】boxに公開されているデータを一括ダウンロードする](https://yiskw713.hatenablog.com/entry/2023/01/30/200000)
 <!-- BLOG-POST-LIST:END -->
 
-### GitHub Activities
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yiskw713/paper-summary-tweet-notifier/issues/1) in [yiskw713/paper-summary-tweet-notifier](https://github.com/yiskw713/paper-summary-tweet-notifier)
-2. 🗣 Commented on [#2](https://github.com/yiskw713/paper-summary-tweet-notifier/issues/2) in [yiskw713/paper-summary-tweet-notifier](https://github.com/yiskw713/paper-summary-tweet-notifier)
-3. 💪 Opened PR [#21](https://github.com/yiskw713/pytorch_template/pull/21) in [yiskw713/pytorch_template](https://github.com/yiskw713/pytorch_template)
-4. 💪 Opened PR [#8](https://github.com/yiskw713/cv_utils/pull/8) in [yiskw713/cv_utils](https://github.com/yiskw713/cv_utils)
-5. ❗️ Opened issue [#171](https://github.com/yiskw713/paper_summary/issues/171) in [yiskw713/paper_summary](https://github.com/yiskw713/paper_summary)
-<!--END_SECTION:activity-->
-
 [googlescholar]: https://scholar.google.com/citations?user=IEF2iOkAAAAJ&hl=en&oi=ao
 [twitter]: https://twitter.com/yiskw713
 [instagram]: https://www.instagram.com/yciskw_/
