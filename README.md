@@ -1,51 +1,9 @@
 Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 
-* 👨‍💻 I'm currently working as a research engineer at LY Corporation while pursuing my PhD in Japan, majoring in Computer Vision and Machine Learning.
+* 👨‍💻 I'm currently working as an OpenShift AI Consultant at Red Hat while pursuing my PhD in Japan, majoring in Computer Vision and Machine Learning.
 * 🧪 My research topic is about video understanding and self-supervised learning.
 * 🎒 I love traveling all over the world. I've been to over 30 countries and landed on the seven continents so far.
 * 🍺🍶 I'm really into Japanese sake, and I also work at a sake shop as a side job, helping customers with sales and recommendations.
-
-### Languages and Skills
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=SASS&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vim-1572B6?style=flat-square&logo=Vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</p>
-
-### Where to Find Me 👀
-
-[<img align="left" width="40px" src="https://www.svgrepo.com/show/349396/google-scholar.svg" />][googlescholar]
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg" />][twitter]
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />][linkedin]
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" />][instagram]
-[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/facebook.svg" />][facebook]
-[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/blog_blogger_business_news_web_website_icon_123264.png" />][blog]
-
-<br>
-<br>
-
-✉️ : yishikawa[at]aoki-medialab.jp
-
 
 ### Profile 📖
 
@@ -56,15 +14,15 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 * **Ph.D. program in Center for Electronics and Electrical Engineering,**
   **School of Integrated Design Engineering,**
   **Graduate School of Keio University** (Apr. 2021 – present in Japan) <br>
-  *My research theme is about human motion analysis and removing scene bias in action recognition. (Adviser: Prof. Yoshimitsu AOKI. [Lab Homepage](https://aoki-medialab.jp/))*
+  *My research theme is about video recognition and multimodal video recognition. (Adviser: Prof. Yoshimitsu AOKI. [Lab Homepage](https://aoki-medialab.jp/))*
 
 * **M.S. in Center for Electronics and Electrical Engineering,**
   **School of Integrated Design Engineering,**
   **Graduate School of Keio University** (Apr. 2019 – Mar. 2021 in Japan) <br>
-  *My research theme is about human motion analysis and object function detection. I’m expected to get a master’s degree in 2021. (Adviser: Prof. Yoshimitsu AOKI. [Lab Homepage](https://aoki-medialab.jp/))*
+  *My research theme is about human motion analysis and object function detection. (Adviser: Prof. Yoshimitsu AOKI. [Lab Homepage](https://aoki-medialab.jp/))*
 
 * **B.S. in Dept. of Electronics and Electrical Engineering,**
-  **Keio University** (Apr. 2015 - Mar.2019 in Japan) <br>
+  **Keio University** (Apr. 2015 - Mar. 2019 in Japan) <br>
   *I mainly studied Electronics in the first three years. During the last year, I researched Machine Learning, Computer Vision and Robot Vision. (Adviser: Prof. Yoshimitsu AOKI. [Lab Homepage](https://aoki-medialab.jp/))*
 
 </details>
@@ -73,7 +31,10 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 <details>
 <summary>Experience</summary>
 
-* **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - present in Tokyo, Japan]**<br>
+* **OpenShift AI Consultant in [Red Hat](https://www.redhat.com/en) [Jun. 2026 - present in Tokyo, Japan]**<br>
+  OpenShift AI
+
+* **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - May 2026 in Tokyo, Japan]**<br>
   Computer Vision
 
 * **Sake Sales Staff (Part-time) [Feb. 2025 - present in Tokyo, Japan]**<br>
@@ -89,18 +50,18 @@ Japanese sake sales and customer service
 
 * **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - present in Japan]**<br>
 
-* **Internship in [Tenchijin Inc.](https://tenchijin.co.jp/) [Jun. 2020 – Mar. 2021  in Tokyo, Japan]**<br>
+* **Internship in [Tenchijin Inc.](https://tenchijin.co.jp/) [Jun. 2020 – Mar. 2021 in Tokyo, Japan]**<br>
   Backend / Machine Learning Engineer working on the analysis of the big data about space.
 
-* **Internship in [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/) [Feb. 2020 - Feb. 2020  Tokyo, Japan]**<br>
+* **Internship in [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/) [Feb. 2020 - Feb. 2020 in Tokyo, Japan]**<br>
   Worked on developing AdTech using machine learning and GCP.
 
 * **Internship in [SoftBank Corp.](https://www.softbank.jp/en/) [Aug. 2019 – Sep. 2019 in Tokyo, Japan]**<br>
-  Worked on the following two task:<br>
+  Worked on the following two tasks:<br>
   1. classifying a product into normal one or abnormal one and visualizing where a CNN model looks<br>
   2. semantic segmentation for super high-resolution images<br>
 
-* **Research Assisstant in [National Institute of Advanced Industrial Science and Technology(AIST)](https://www.aist.go.jp/index_en.html) [Apr. 2019 – Mar. 2021 in Tsukuba, Ibaraki, Japan]**<br>
+* **Research Assistant in [National Institute of Advanced Industrial Science and Technology(AIST)](https://www.aist.go.jp/index_en.html) [Apr. 2019 – Mar. 2021 in Tsukuba, Ibaraki, Japan]**<br>
   Research about Machine Learning and Action Recognition under the supervision of [Ph.D. Hirokatsu KATAOKA](http://hirokatsukataoka.net/).
 
 * **Internship in [IBM Japan, Ltd.](https://www.ibm.com/ibm/jp/en/) [Sep. 2018 - Mar. 2019 in Tokyo, Japan]**<br>
@@ -116,11 +77,11 @@ Japanese sake sales and customer service
 
 * Shota Nakada, Kazuhiro Saito, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, Masayoshi Kondo, "Hallucination Localization in Video Captioning", in arXiv 2025. [paper](https://arxiv.org/abs/2510.25225)
 
-* **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in arXiv 2025. [paper](https://arxiv.org/abs/2510.24024)
-
-* Toranosuke Manabe, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, "ProLAP: Probabilistic Language-Audio Pre-Training", in arXiv 2025. [paper](https://arxiv.org/abs/2510.18423)
-
 #### International Conference
+
+* **Yuchi Ishikawa**, Toranosuke Manabe, Tatsuya Komatsu, Yoshimitsu Aoki, "Listening without Looking: Modality Bias in Audio-Visual Captioning", in ICIP 2026. [paper](https://arxiv.org/abs/2510.24024)
+
+* Toranosuke Manabe, **Yuchi Ishikawa**, Hokuto Munakata, Tatsuya Komatsu, "ProLAP: Probabilistic Language-Audio Pre-Training", in Interspeech 2026. [paper](https://arxiv.org/abs/2510.18423)
 
 * Tatsuya Komatsu, Hokuto Munakata, **Yuchi Ishikawa**, "Leveraging Unlabeled Audio for Audio-Text Contrastive Learning via Audio-Composed Text Features", in Interspeech 2025. [paper](https://www.isca-archive.org/interspeech_2025/komatsu25_interspeech.html)
 
@@ -136,7 +97,7 @@ Japanese sake sales and customer service
 
 * Kensho Hara, **Yuchi Ishikawa**, Hirokatsu Kataoka, "Rethinking Training Data for Mitigating Representation Biases in Action Recognition" in CVPR 2021 Workshop on Large Scale Holistic Video Understanding 2021
 
-* **Yuchi Ishikawa**, Seito Kasai, Yoshimitsu Aoki, Hirokatsu kataoka, "Alleviating Over-segmentation Errors by Detecting Action Boundaries" in WACV 2021. [arXiv](https://arxiv.org/abs/2007.06866)
+* **Yuchi Ishikawa**, Seito Kasai, Yoshimitsu Aoki, Hirokatsu Kataoka, "Alleviating Over-segmentation Errors by Detecting Action Boundaries" in WACV 2021. [arXiv](https://arxiv.org/abs/2007.06866)
 
 * Seito Kasai, **Yuchi Ishikawa**, Masaki Hayashi, Yoshimitsu Aoki, Kensho Hara, Hirokatsu Kataoka, “RETRIEVING AND HIGHLIGHTING ACTION WITH SPATIOTEMPORAL REFERENCE” in IEEE ICIP 2020. [arXiv](https://arxiv.org/abs/2005.09183?context=cs)
 
@@ -208,16 +169,16 @@ Japanese sake sales and customer service
   I took part in CVPR 2019 and wrote this article with members of cvpaper.challenge.
 
 * **[cvpaper.challenge](http://xpaperchallenge.org/cv/) [Apr. 2019 – present]**<br>
-  As a member of cvpaper.challenge, I read a lot of papers accepted at CVPR or several top conferences. I also reseach and share the knowledge with its members.
+  As a member of cvpaper.challenge, I read a lot of papers accepted at CVPR or several top conferences. I also research and share the knowledge with its members.
 
 * **[ActivityNet Challenge](http://activity-net.org/) [Jun. 2019]**<br>
-  Out team took part in ActivityNet Challenge in CVPR workshop. We won 9th place in Task A - Trimmed Action Recognition. Our team also participated in Task 3 - Dense-Captioning Events in Videos.
+  Our team took part in ActivityNet Challenge in CVPR workshop. We won 9th place in Task A - Trimmed Action Recognition. Our team also participated in Task 3 - Dense-Captioning Events in Videos.
 
 * **[Paper Summary](https://github.com/yiskw713/paper_summary)**<br>
   I read papers every day and summarize them as far as possible in GitHub. If you get interested, visit [my project page](https://github.com/yiskw713/paper_summary).
 
 * **3rd place award in MIRU 2018 Young Researchers Program [Aug. 2018]**<br>
-  As a young researcher program in MIRU 2018, participants were divided into several groups and each group read papers in the field outside Computer Vision. Then, each group summarized the history, the trend and the conection with Computer Vision. It helped us not only understand different fields, but also consider how we can make use of knowledge about them for Computer Vision.<br>
+  As a young researcher program in MIRU 2018, participants were divided into several groups and each group read papers in the field outside Computer Vision. Then, each group summarized the history, the trend and the connection with Computer Vision. It helped us not only understand different fields, but also consider how we can make use of knowledge about them for Computer Vision.<br>
   Our group, C, read papers in the field of Robotics, focusing on “Transferring Knowledge from Simulation to Real”. You can see our poster and presentation material from [this link](https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99?authuser=0).
 
 </details>
@@ -296,10 +257,10 @@ Japanese sake sales and customer service
 * **[慶応工学会育英奨学生](http://www.keiokougakukai.org/) [Apr. 2021 - Mar. 2022]**
 
 * **[Scholarship of Japan Student Services Organization](https://www.jasso.go.jp/shogakukin/index.html) [Apr. 2019 - Mar. 2021]**<br>
-  This educational lender have been totally exempted because my achievement during master program was highly evaluated.
+  This educational loan has been fully exempted because my achievement during master program was highly evaluated.
 
 * **JEES・ソフトバンクAI人材育成奨学金 [Apr. 2019 - Mar. 2020]**<br>
-  I received this scholorship which aims at supporting up to a hundred of capable students studying Artificial Intelligence in Japan.
+  I received this scholarship which aims at supporting up to a hundred of capable students studying Artificial Intelligence in Japan.
 
 </details>
 
@@ -312,6 +273,20 @@ Japanese sake sales and customer service
 - [【Linux】ハイフンから始まるファイルを指定する](https://yiskw713.hatenablog.com/entry/2023/02/03/120000)
 - [【Python】boxに公開されているデータを一括ダウンロードする](https://yiskw713.hatenablog.com/entry/2023/01/30/200000)
 <!-- BLOG-POST-LIST:END -->
+
+### Social Media 👀
+
+[<img align="left" width="40px" src="https://www.svgrepo.com/show/349396/google-scholar.svg" />][googlescholar]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg" />][twitter]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" />][linkedin]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" />][instagram]
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/facebook.svg" />][facebook]
+[<img align="left" width="40px" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/blog_blogger_business_news_web_website_icon_123264.png" />][blog]
+
+<br>
+<br>
+
+✉️ : yishikawa[at]aoki-medialab.jp
 
 [googlescholar]: https://scholar.google.com/citations?user=IEF2iOkAAAAJ&hl=en&oi=ao
 [twitter]: https://twitter.com/yiskw713
