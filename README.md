@@ -31,10 +31,10 @@ Hi there👋, I'm Yuchi Ishikawa (石川 裕地).
 <details>
 <summary>Experience</summary>
 
-* **OpenShift AI Consultant in [Red Hat](https://www.redhat.com/en) [Jun. 2026 - present in Tokyo, Japan]**<br>
+* **OpenShift AI Consultant in [Red Hat](https://www.redhat.com/en) [May 2026 - present in Tokyo, Japan]**<br>
   OpenShift AI
 
-* **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - May 2026 in Tokyo, Japan]**<br>
+* **Machine Learning Research Engineer in [LY Corporation](https://www.lycorp.co.jp/en/) [Oct. 2023 - Apr. 2026 in Tokyo, Japan]**<br>
   Computer Vision
 
 * **Sake Sales Staff (Part-time) [Feb. 2025 - present in Tokyo, Japan]**<br>
@@ -48,7 +48,7 @@ Japanese sake sales and customer service
 * **Machine Learning Engineer in [Softbank Corp.](https://www.softbank.jp/en/) [Apr. 2021 - Sep. 2022 in Tokyo, Japan]**<br>
   Computer Vision / Edge Device Development / Backend Engineer
 
-* **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - present in Japan]**<br>
+* **Backend Engineer developing [AIC website](https://aic.keio.ac.jp/forStudents/web) [Sep. 2020 - Mar. 2022 in Japan]**<br>
 
 * **Internship in [Tenchijin Inc.](https://tenchijin.co.jp/) [Jun. 2020 – Mar. 2021 in Tokyo, Japan]**<br>
   Backend / Machine Learning Engineer working on the analysis of the big data about space.
